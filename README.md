@@ -1,6 +1,7 @@
-El presente repositorio contiene el código del **sexto desafío** llamado **Traer Posts** del módulo **Programación avanzada en JavaScript** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dictada por Desafío Latam.
+Repositorio con código del **"sexto desafío"** -> **"Traer Posts"**.
+Del módulo **"Programación avanzada en JavaScript"** de la beca **"Desarrollo de aplicaciones Full Stack Javascript Trainee"** dictada por Desafío Latam.
 
-Los requisitos del proyecto son los siguientes:
+<h1>requisitos</h1>
 
 ![Requisitos](./assets/img/requisitos.webp)
 
