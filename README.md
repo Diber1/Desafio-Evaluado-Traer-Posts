@@ -1,13 +1,15 @@
-Repositorio con código del **"sexto desafío"** -> **"Traer Posts"**.
+Repositorio con código del Desafío Evaluado -> **"Traer Posts"**.
 Del módulo **"Programación avanzada en JavaScript"** de la beca **"Desarrollo de aplicaciones Full Stack Javascript Trainee"** dictada por Desafío Latam.
 
-<h1>requisitos</h1>
+<h1>Requisitos</h1>
 
 ![Requisitos](./assets/img/requisitos.webp)
 
 La API de consulta se encuentra [aquí](https://jsonplaceholder.typicode.com/posts)
 
-El proyecto presenta 2 estados siendo el primero aquel que presenta el botón Traer Posts Habilitado para hacer click sobre él. El segundo estado es aquel que se gatilla cuando se muestra la data en pantalla en el cual el botón Traer Posts se deshabilita. El estado 1 esta representado por la imagen siguiente:
+El proyecto presenta 2 estados siendo el primero aquel que presenta el botón Traer Posts Habilitado para hacer click sobre él. 
+El segundo estado es aquel que se gatilla cuando se muestra la data en pantalla en el cual el botón Traer Posts se deshabilita. 
+El estado 1 esta representado por la imagen siguiente:
 
 ![Botón Habilitado: estado 1](./assets/img/boton_habilitado-min.png)
 
@@ -15,9 +17,9 @@ El estado 2 el cual muestra data es representado por la imagen siguiente:
 
 ![Data mostrada: estado 1](./assets/img/data_mostrada-min.png)
 
-La data de la API la muestro en un acordion de bootstrap 5.
+La data de la APIs muestra en un acordion de bootstrap 5.
 
-A continuación muestro el código para cada requisito:
+PASOS Requisitos:
 
 #### 1.Realizar un request (consulta) a la API usando async-await.
 
